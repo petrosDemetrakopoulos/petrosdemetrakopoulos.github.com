@@ -1,0 +1,346 @@
+#content h1{
+	font-size: 186px;
+	color: red;
+}
+#body h2{
+	font-size: 50px;
+	font-family: Calibri;
+}
+#block1 {
+	height: 60px;
+	width:60px;
+	margin-left: 0px;
+	margin-right: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: red;
+} 
+#block2{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: red;
+}
+#block3{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: red;
+}
+#block4{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: red;
+}
+#roof1{
+	height: 30px;
+	width:30px;
+	margin-left: 12px;
+	margin-top: 12px;
+	overflow: hidden;
+	background-color: red;
+	
+}
+#roof2{
+	height: 15px;
+	width:15px;
+	margin-left: 6px;
+	margin-top: 6px;
+	overflow: hidden;
+	background-color: red;
+}
+#roof3{
+	height: 7px;
+	width:7px;
+	margin-left: 3px;
+	margin-top: 3px;
+	overflow: hidden;
+	background-color: red;
+}
+#pyramidBase{
+	height: 240px;
+	width: 240px;
+	margin-left: 150px;
+	margin-top: -240px;
+	overflow: hidden;
+	background-color: green;
+}
+#pyramid1{
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: green;
+}
+#pyramid2{
+	height: 160px;
+	width:160px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: green;
+}
+#pyramid3{
+	height: 120px;
+	width:120px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: green;
+}
+#pyramid4{
+	height: 80px;
+	width:80px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: green;
+}
+#pyramid5{
+	height: 40px;
+	width:40px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: green;
+}
+#pyramid6{
+	height: 20px;
+	width:20px;
+	margin-top: 10px;
+	margin-left: 10px;
+	overflow: hidden;
+	background-color: green;
+}
+#CurveBase{
+	height: 100px;
+	width: 100px;
+	margin-top: -90px;
+	margin-left: 450px;
+	overflow: hidden;
+	background-color: 00FF00;
+}
+#Curve1{
+	width: 90px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#Curve2{
+	width: 80px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#Curve3{
+	width: 70px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#Curve4{
+	width: 60px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#Curve5{
+	width: 50px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#Curve6{
+	width: 40px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#Curve7{
+	width: 30px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#Curve8{
+	width: 20px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#Curve9{
+	width: 10px;
+	height: 100px;
+	margin-left: 10px;
+	background-color: 00FF00;
+}
+#CurveBaseB{
+	width: 100px;
+	height: 100px;
+	margin-left: 450px;
+	margin-top: -330px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve1B{
+	width: 95px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve2B{
+	width: 90px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve3B{
+	width:85px;
+	height: 100px;
+	margin-left: 5px;
+	width:85px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve4B{
+	width:80px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve5B{
+	width:75px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve6B{
+	width:70px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+	}
+#Curve7B{
+	width:65px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve8B{
+	width:60px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve9B{
+	width:55px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve10B{
+	width:50px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve11B{
+	width:45px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve12B{
+	width:40px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve13B{
+	width:35px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve14B{
+	width:30px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve15B{
+	width:25px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve16B{
+	width:20px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve17B{
+	width:15px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve18B{
+	width:10px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#Curve19B{
+	width:5px;
+	height: 100px;
+	margin-left: 5px;
+	overflow: hidden;
+	background-color: FF6600;
+}
+#tree{
+	width: 10px;
+	height: 10px;
+	margin-left: 460px;
+	margin-top: 70px;
+	overflow: hidden;
+	background-color: 663300 ;
+}
+#body{
+	overflow: hidden;
+	float: left;
+	height: 500px;
+	clear: both;
+}
+#spacer {
+	height: 20px;
+	width: 0px;
+}
