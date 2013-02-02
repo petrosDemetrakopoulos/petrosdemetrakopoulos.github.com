@@ -71,7 +71,7 @@
 	height: 240px;
 	width: 240px;
 	margin-left: 150px;
-	margin-top: -330px;
+	margin-top: -465px;
 	overflow: hidden;
 	background-color: green;
 }
@@ -127,7 +127,7 @@
 	height: 100px;
 	width: 100px;
 	margin-top: -10px;
-	margin-left: 450px;
+	margin-left: 480px;
 	overflow: hidden;
 	background-color: 00FF00;
 }
@@ -188,7 +188,7 @@
 #CurveBaseB{
 	width: 100px;
 	height: 100px;
-	margin-left: 450px;
+	margin-left: 480px;
 	margin-top: -330px;
 	overflow: hidden;
 	background-color: FF6600;
@@ -329,16 +329,158 @@
 	overflow: hidden;
 	background-color: FF6600;
 }
-#body img{
-	height: 310px;
+#firstRoad{
+	height: 440px;
 	width: 86px;
 	margin-left: 62px;
 	margin-top: -300px;
 }
+#secondRoad{
+	height: 440px;
+	width: 86px;
+	margin-left: 240px;
+	margin-top: -300px;
+}
+#SemiPyrBase{
+	height: 100px;
+	width: 100px;
+	margin-left: 480px;
+	margin-top: 15px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr1{
+	height: 100px;
+	width: 90px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr2{
+	height: 100px;
+	width: 80px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr3{
+	height: 100px;
+	width: 70px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr4{
+	height: 100px;
+	width: 60px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr5{
+	height: 100px;
+	width: 50px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr6{
+	height: 100px;
+	width: 40px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr7{
+	height: 100px;
+	width: 30px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr8{
+	height: 100px;
+	width: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#SemiPyr9{
+	height: 100px;
+	width: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background-color: yellow;
+	overflow: hidden;
+}
+#pyramidBaseB{
+	height: 240px;
+	width: 240px;
+	margin-left: 150px;
+	margin-top: 40px;
+	overflow: hidden;
+	background-color: 66FF00;
+}
+#pyramid1B{
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: 66FF00;
+}
+#pyramid2B{
+	height: 160px;
+	width:160px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: 66FF00;
+}
+#pyramid3B{
+	height: 120px;
+	width:120px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: 66FF00;
+}
+#pyramid4B{
+	height: 80px;
+	width:80px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: 66FF00;
+}
+#pyramid5B{
+	height: 40px;
+	width:40px;
+	margin-top: 20px;
+	margin-left: 20px;
+	overflow: hidden;
+	background-color: 66FF00;
+}
+#pyramid6B{
+	height: 20px;
+	width:20px;
+	margin-top: 10px;
+	margin-left: 10px;
+	overflow: hidden;
+	background-color: 66FF00;
+}
 #body{
 	overflow: hidden;
 	float: left;
-	height: 500px;
+	height: 800px;
 	clear: both;
 }
 #spacer {
