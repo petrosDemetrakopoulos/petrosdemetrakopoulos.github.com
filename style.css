@@ -71,7 +71,7 @@
 	height: 240px;
 	width: 240px;
 	margin-left: 150px;
-	margin-top: -465px;
+	margin-top: -525px;
 	overflow: hidden;
 	background-color: green;
 }
@@ -330,13 +330,13 @@
 	background-color: FF6600;
 }
 #firstRoad{
-	height: 440px;
+	height: 500px;
 	width: 86px;
 	margin-left: 62px;
 	margin-top: -300px;
 }
 #secondRoad{
-	height: 440px;
+	height: 500px;
 	width: 86px;
 	margin-left: 240px;
 	margin-top: -300px;
