@@ -71,7 +71,7 @@
 	height: 240px;
 	width: 240px;
 	margin-left: 150px;
-	margin-top: -240px;
+	margin-top: -330px;
 	overflow: hidden;
 	background-color: green;
 }
@@ -126,7 +126,7 @@
 #CurveBase{
 	height: 100px;
 	width: 100px;
-	margin-top: -90px;
+	margin-top: -10px;
 	margin-left: 450px;
 	overflow: hidden;
 	background-color: 00FF00;
@@ -329,13 +329,11 @@
 	overflow: hidden;
 	background-color: FF6600;
 }
-#tree{
-	width: 10px;
-	height: 10px;
-	margin-left: 460px;
-	margin-top: 70px;
-	overflow: hidden;
-	background-color: 663300 ;
+#body img{
+	height: 310px;
+	width: 86px;
+	margin-left: 62px;
+	margin-top: -300px;
 }
 #body{
 	overflow: hidden;
