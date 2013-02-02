@@ -6,6 +6,9 @@
 	font-size: 50px;
 	font-family: Calibri;
 }
+#body h3{
+	font-family: Calibri;
+}
 #block1 {
 	height: 60px;
 	width:60px;
