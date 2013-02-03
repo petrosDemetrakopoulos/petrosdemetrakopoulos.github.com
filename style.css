@@ -612,6 +612,24 @@ margin-left: -4px;
 	clear: both;
 	background-color: 0033FF;
 }
+#block14Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 480px;
+	margin-top: 20px;
+	overflow: hidden;
+	clear: both;
+	background-color: 0033FF;
+}
+#block15Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 540px;
+	margin-top: -60px;
+	overflow: hidden;
+	clear: both;
+	background-color: 0033FF;
+}
 #pyramidBaseC{
 	height: 240px;
 	width: 240px;
