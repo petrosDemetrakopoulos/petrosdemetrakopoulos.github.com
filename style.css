@@ -71,7 +71,7 @@
 	height: 240px;
 	width: 240px;
 	margin-left: 150px;
-	margin-top: -525px;
+	margin-top: -785px;
 	overflow: hidden;
 	background-color: green;
 }
@@ -330,13 +330,13 @@
 	background-color: FF6600;
 }
 #firstRoad{
-	height: 500px;
+	height: 760px;
 	width: 86px;
 	margin-left: 62px;
 	margin-top: -300px;
 }
 #secondRoad{
-	height: 500px;
+	height: 760px;
 	width: 86px;
 	margin-left: 240px;
 	margin-top: -300px;
@@ -477,11 +477,233 @@
 	overflow: hidden;
 	background-color: 66FF00;
 }
-#body{
+#block5Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	margin-top: -195px;
 	overflow: hidden;
-	float: left;
-	height: 800px;
 	clear: both;
+	background-color: purple;
+}
+#block5{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block6Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	margin-top: 15px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block6{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block7Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	margin-top: -280px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block7{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block8Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	margin-top: 20px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block8{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block9Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	margin-top: 20px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block9{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: purple;
+}
+#block10Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 480px;
+	margin-top: -350px;
+	overflow: hidden;
+	clear: both;
+	background-color: 0033FF;
+}
+#block10{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	overflow: hidden;
+	clear: both;
+	background-color: 0033FF;
+}
+#block11Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 540px;
+	margin-top: -60px;
+	overflow: hidden;
+	clear: both;
+	background-color: 0033FF;
+}
+#pyramidBaseC{
+	height: 240px;
+	width: 240px;
+	margin-left: 150px;
+	margin-top: 60px;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid1C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid2C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid3C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid4C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid5C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid6C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid7C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid8C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid9C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid10C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid11C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#pyramid12C{
+	height: 95%;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	background-color: YellowGreen;
+}
+#body{
+	float: left;
+	height: 1200px;
+	width: 100%
+	overflow:hidden;
+	clear: both;
+}
+
+#html{
+	float: left;
+	height: 1200px;
+	width: 100%;
 }
 #spacer {
 	height: 20px;
