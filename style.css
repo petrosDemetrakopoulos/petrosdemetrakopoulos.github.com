@@ -344,8 +344,14 @@
 #landRoad{
 height: 100px;
 width: 122px;
-margin-bottom: 255px;
-margin-left: -4px;
+margin-bottom: 265px;
+margin-left: -5px;
+}
+#landsRoad2{
+height: 100px;
+width: 610px;
+margin-bottom: -100px;
+margin-left: -610px;
 }
 #SemiPyrBase{
 	height: 100px;
@@ -555,7 +561,7 @@ margin-left: -4px;
 	height: 60px;
 	width: 60px;
 	margin-left: 0px;
-	margin-top: 20px;
+	margin-top: 10px;
 	overflow: hidden;
 	clear: both;
 	background-color: purple;
@@ -616,7 +622,7 @@ margin-left: -4px;
 	height: 60px;
 	width: 60px;
 	margin-left: 480px;
-	margin-top: 20px;
+	margin-top: 40px;
 	overflow: hidden;
 	clear: both;
 	background-color: 0033FF;
@@ -630,6 +636,15 @@ margin-left: -4px;
 	clear: both;
 	background-color: 0033FF;
 }
+#block16Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 480px;
+	margin-top: 45px;
+	overflow: hidden;
+	clear: both;
+	background-color: 0033FF;
+}
 #pyramidBaseC{
 	height: 240px;
 	width: 240px;
@@ -637,6 +652,24 @@ margin-left: -4px;
 	margin-top: 60px;
 	overflow: hidden;
 	background-color: YellowGreen;
+}
+#block17Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 540px;
+	margin-top: -60px;
+	overflow: hidden;
+	clear: both;
+	background-color: 0033FF;
+}
+#block18Base{
+	height: 60px;
+	width: 60px;
+	margin-left: 0px;
+	margin-top: -55px;
+	overflow: hidden;
+	clear: both;
+	background-color: 0033FF;
 }
 #pyramid1C{
 	height: 95%;
