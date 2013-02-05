@@ -341,15 +341,21 @@
 	margin-left: 240px;
 	margin-top: -300px;
 }
+#thirdRoad{
+	height: 760px;
+	width: 86px;
+	margin-left: 110px;
+	margin-top: -300px;
+}
 #landRoad{
 height: 100px;
 width: 122px;
 margin-bottom: 265px;
-margin-left: -5px;
+margin-left: -205px;
 }
 #landsRoad2{
 height: 100px;
-width: 610px;
+width: 685px;
 margin-bottom: -100px;
 margin-left: -610px;
 }
@@ -766,6 +772,22 @@ margin-left: -610px;
 	margin-right: auto;
 	overflow: hidden;
 	background-color: YellowGreen;
+}
+#PyrCurvBase{
+	width: 100px;
+	height: 100px;
+	margin-left: 680px;
+	margin-top: -764px;
+	overflow: hidden;
+	background-color: Cyan;
+}
+#pyrCurve{
+	width: 90%;
+	height: 90%;
+	margin-left: 3px;
+	margin-right: 3px;
+	overflow: hidden;
+	background-color: Cyan;
 }
 #body{
 	float: left;
