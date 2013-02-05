@@ -782,10 +782,10 @@ margin-left: -610px;
 	background-color: Cyan;
 }
 #pyrCurve{
-	width: 90%;
-	height: 90%;
-	margin-left: 3px;
-	margin-right: 3px;
+	width: 95%;
+	height: 95%;
+	margin-left: 2%;
+	margin-top: 2%;
 	overflow: hidden;
 	background-color: Cyan;
 }
