@@ -789,6 +789,22 @@ margin-left: -610px;
 	overflow: hidden;
 	background-color: Cyan;
 }
+#PyrCurvBase2{
+	width: 100px;
+	height: 100px;
+	margin-left: 680px;
+	margin-top: 14px;
+	overflow: hidden;
+	background-color: RoyalBlue;
+}
+#pyrCurve2{
+	width: 96%;
+	height: 96%;
+	margin-left: 2%;
+	margin-bottom: 4%;
+	overflow: hidden;
+	background-color: RoyalBlue;
+}
 #body{
 	float: left;
 	height: 1200px;
