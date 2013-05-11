@@ -1,0 +1,15 @@
+
+{
+  "name": "Acculoc",
+  "description": "Location App",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/Icon@2x.png"
+  },
+  "developer": {
+    "name": "PSD Apps",
+    "url": "http://www.psdapps.gr"
+  },
+  "default_locale": "en",
+  "defaults": mozBanr.init();
+}

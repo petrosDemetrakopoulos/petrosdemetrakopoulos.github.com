@@ -1,0 +1,119 @@
+div.header{
+	font-size: 120% ;
+	font-family: Helvetica;
+	color: black;
+	text-align: center;
+}
+div.coords{
+	font-size: 180% ;
+	font-family: Helvetica;
+	color: black;
+	text-align: left;
+	position: fixed;
+	top: 70px;
+	left: 700px;
+}
+#lat{
+	font-size: 180% ;
+	font-family: Helvetica;
+	color: black;
+	position: fixed;
+	top: 170px;
+	left: 970px;
+}
+#long{
+	font-size: 180% ;
+	font-family: Helvetica;
+	color: black;
+	position: fixed;
+	top: 85px;
+	left: 970px;
+}
+#alt{
+	font-size: 180% ;
+	font-family: Helvetica;
+	color: black;
+	position: fixed;
+	top: 255px;
+	left: 970px;
+}
+#globe{
+	width: 700px;
+	height: 300px;
+	position: fixed;
+	top: 60px;
+	left: 600px;
+}
+@media screen and (max-width: 640px) and (max-height: 960px){
+	div.header{
+	font-size: 100% ;
+	font-family: Helvetica;
+	color: black;
+	text-align: center;
+}
+	#lat{
+	font-size: 100% ;
+	font-family: Helvetica;
+	color: black;
+	position: fixed;
+	top: 105px;
+	left: 160px;
+}
+#long{
+	font-size: 100% ;
+	font-family: Helvetica;
+	color: black;
+	position: fixed;
+	top: 65px;
+	left: 160px;
+}
+#alt{
+	font-size: 100% ;
+	font-family: Helvetica;
+	color: black;
+	position: fixed;
+	top: 135px;
+	left: 160px;
+}
+div.coords{
+	font-size: 90% ;
+	font-family: Helvetica;
+	color: black;
+	text-align: left;
+	position: fixed;
+	top: 65px;
+	left: 35px;
+}
+#globe{
+	width: 300px;
+	height: 150px;
+	position: fixed;
+	top: 50px;
+	left: 10px;
+}
+#share{
+	width: 45px;
+	height: 45px;
+	margin-top: 230px;
+}
+#shareimg{
+	position: fixed;
+	top: 412px;
+	left: 35px;
+	width: 45px;
+	height: 45px;
+}
+#mail{
+	width: 45px;
+	height: 45px;
+	margin-top: 230px;
+	margin-left: 10px;
+}
+#mailimg{
+	position: fixed;
+	top: 405px;
+	left: 92px;
+	width: 49px;
+	height: 60px;
+}
+}
