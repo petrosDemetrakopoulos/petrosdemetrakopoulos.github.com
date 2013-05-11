@@ -4,7 +4,7 @@
   "description": "Location App",
   "launch_path": "index.html",
   "icons": {
-    "128": "/Icon@2x.png"
+    "128": "Icon@2x.png"
   },
   "developer": {
     "name": "PSD Apps",
