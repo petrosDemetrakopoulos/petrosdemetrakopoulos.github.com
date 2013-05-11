@@ -94,7 +94,6 @@ div.coords{
 #share{
 	width: 45px;
 	height: 45px;
-	margin-top: 30px;
 }
 #shareimg{
 	position: fixed;
@@ -106,7 +105,6 @@ div.coords{
 #mail{
 	width: 45px;
 	height: 45px;
-	margin-top: 230px;
 	margin-left: 10px;
 }
 #mailimg{
