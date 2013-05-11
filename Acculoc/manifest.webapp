@@ -2,7 +2,7 @@
 {
   "name": "Acculoc",
   "description": "Location App",
-  "launch_path": "/index.html",
+  "launch_path": "index.html",
   "icons": {
     "128": "/Icon@2x.png"
   },
