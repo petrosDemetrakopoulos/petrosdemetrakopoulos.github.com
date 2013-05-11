@@ -75,6 +75,11 @@ div.coords{
 	top: 135px;
 	left: 160px;
 }
+head.button {
+	position: fixed;
+	top: 65px;
+	left: 35px;
+}
 div.coords{
 	font-size: 90% ;
 	font-family: Helvetica;
