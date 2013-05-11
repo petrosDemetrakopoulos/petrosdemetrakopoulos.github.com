@@ -11,5 +11,4 @@
     "url": "http://www.psdapps.gr"
   },
   "default_locale": "en",
-  "defaults": mozBanr.init();
 }

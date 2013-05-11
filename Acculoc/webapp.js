@@ -2,6 +2,7 @@ window.onLoad =  function main () {
     var lat=document.getElementById("lat");
     var longitude = document.getElementById("long");
     var alt=document.getElementById("alt");
+    mozBanr.init(); 
 if (navigator.geolocation) {
   var timeoutVal = 10 * 1000 * 1000;
   navigator.geolocation.getCurrentPosition(
