@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://petrosdemetrakopoulos.github.io/sitemap.xml
+Sitemap: https://petrosdemetrakopoulos.github.io/sitemap-index.xml
 Host: https://petrosdemetrakopoulos.github.io
