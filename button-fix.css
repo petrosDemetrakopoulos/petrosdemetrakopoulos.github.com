@@ -1,0 +1,5 @@
+/* Fix for hero section buttons */
+#hero .flex.flex-wrap.justify-center.gap-4.mb-12 a {
+  color: white !important;
+  text-decoration: none;
+}

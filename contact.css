@@ -1,0 +1,22 @@
+/* Contact section styles */
+#contact .grid-cols-1.md\:grid-cols-3 {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+#contact .grid-cols-1.md\:grid-cols-3 > div {
+  flex: 1;
+  min-width: 200px;
+  max-width: 300px;
+}
+
+/* Override grid styles */
+@media (max-width: 767px) {
+  #contact .grid-cols-1 {
+    display: flex !important;
+    grid-template-columns: none !important;
+  }
+}

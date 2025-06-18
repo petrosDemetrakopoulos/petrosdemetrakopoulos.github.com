@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){let e=document.getElementById("contact");if(e){let t=e.querySelector(".grid-cols-1.md\\:grid-cols-3");t&&(t.style.display="flex",t.style.flexDirection="row",t.style.flexWrap="wrap",t.style.justifyContent="center",t.style.gap="1rem",t.querySelectorAll("div").forEach(e=>{e.style.flex="1",e.style.minWidth="200px",e.style.maxWidth="300px"}))}},500)});
+//# sourceMappingURL=petrosdemetrakopoulos.github.com.4a8bcb2b.js.map
