@@ -229,7 +229,7 @@ const Portfolio = () => {
               AI & Machine Learning Engineer
             </h2>
             <p className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
-              Highly motivated AI and Machine Learning Engineer with a proven track record in developing predictive models and software solutions. On a mission to help teams scale software incorporating AI and ML capabilities efficiently.
+              Highly motivated AI and Machine Learning Engineer with a proven track record in developing impactful software solutions. On a mission to help teams scale software incorporating AI and ML capabilities efficiently.
             </p>
           </div>
           
@@ -270,11 +270,11 @@ const Portfolio = () => {
           </h2>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h3 className="text-2xl font-semibold mb-6 text-blue-400">Professional Journey</h3>
-              <p className="text-gray-300 mb-6 leading-relaxed">
-                With a Master's degree in Data Science and Artificial Intelligence from TU/e and extensive experience in both freelance and corporate environments, I specialize in developing, integrating and maintianing robust AI and ML solutions.
+              <p className="text-gray-300 mb-6 leading-relaxed text-justify font-light">
+                Hello! My name is Petros and I enjoy creating things that live on any silicon-powered device. My interest in software started as a hobby back in elementary school when I started learning Visual Basic with the help of my father.
+                Fast-forward to today and a Master's degree in Data Science and Artificial Intelligence later, I’ve had the privilege of designing and implementing streamlined technology solutions for a variety of international clients. With an extensive experience in both freelance and corporate environments, I specialize in developing, integrating and maintianing robust AI and ML solutions.
               </p>
-              <p className="text-gray-300 mb-6 leading-relaxed text-justify">
+              <p className="text-gray-300 mb-6 leading-relaxed text-justify font-light">
                 My expertise spans across multiple domains including <span className="font-bold">healthcare</span>, <span className="font-bold">entertainment</span>, <span className="font-bold">marketing technology</span>, and <span className="font-bold">telecommunications</span>, where I've successfully delivered scalable ML and AI solutions that drive real business impact.
               </p>
               <div className="flex flex-wrap gap-3">
@@ -321,9 +321,10 @@ const Portfolio = () => {
           <h2 className="text-4xl font-bold text-center mb-16 text-blue-400">
             Work Experience
           </h2>
+          
           <div className="space-y-8">
             {experiences.map((exp, index) => (
-              <div key={index} className="bg-slate-800 rounded-lg p-8 border border-slate-700 hover:border-slate-600 transition-colors duration-300">
+              <div key={index} className="bg-slate-800 rounded-lg p-6 border border-slate-700 hover:border-blue-500/40 transition-colors duration-300 shadow-lg">
                 <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between mb-4">
                   <div>
                     <h3 className="text-2xl font-semibold text-blue-400 mb-2">{exp.title}</h3>
@@ -333,9 +334,9 @@ const Portfolio = () => {
                       {exp.location}
                     </p>
                   </div>
-                  <div className="flex items-center text-gray-400 mt-4 lg:mt-0">
-                    <Calendar className="w-4 h-4 mr-2" />
-                    {exp.period}
+                  <div className="flex items-center text-blue-300 text-sm bg-blue-900/30 px-3 py-1 rounded-full mt-4 lg:mt-0 w-fit">
+                    <Calendar className="w-4 h-4 mr-1" />
+                    <span>{exp.period}</span>
                   </div>
                 </div>
                 <p className="text-gray-300 mb-4 leading-relaxed">{exp.description}</p>
