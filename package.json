@@ -18,6 +18,7 @@
   "author": "Petros Demetrakopoulos",
   "license": "MIT",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.10",
     "lucide-react": "^0.294.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
