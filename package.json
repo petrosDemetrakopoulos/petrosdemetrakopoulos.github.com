@@ -1,35 +1,32 @@
 {
-  "name": "petrosdemetrakopoulos.github.com",
+  "name": "petros-demetrakopoulos-portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal portfolio website for Petros Demetrakopoulos",
+  "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --open",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
     "build": "parcel build index.html --public-url ./",
-    "serve": "node server.js"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/petrosDemetrakopoulos/petrosdemetrakopoulos.github.com.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/petrosDemetrakopoulos/petrosdemetrakopoulos.github.com/issues"
-  },
-  "homepage": "https://github.com/petrosDemetrakopoulos/petrosdemetrakopoulos.github.com#readme",
+  "keywords": [
+    "portfolio",
+    "machine-learning",
+    "ai",
+    "developer"
+  ],
+  "author": "Petros Demetrakopoulos",
+  "license": "MIT",
   "dependencies": {
-    "lucide-react": "^0.517.0",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "lucide-react": "^0.294.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.10",
-    "autoprefixer": "^10.4.21",
-    "parcel": "^2.15.2",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.10"
-  }
+    "gh-pages": "^6.1.0",
+    "parcel-bundler": "^1.12.5",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  },
+  "homepage": "https://petrosdemetrakopoulos.github.io"
 }
